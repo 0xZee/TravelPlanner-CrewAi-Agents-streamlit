@@ -1,5 +1,5 @@
 streamlit
-'crewai[tools]'
+crewai[tools]
 pysqlite3-binary
 langchain_community
 duckduckgo-search
