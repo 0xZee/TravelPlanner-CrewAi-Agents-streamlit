@@ -1,7 +1,7 @@
 # 🏝️ Travel Planner Crew AI Agents - Streamlit App 🗺️
 Travel Planner Crew AI Agents to Get `Travel Plan`for a specific `City`, `Travel Period`, `Interests` (From Paris to NY) 
 
-## ✈️ Work Flow
+## Work Flow
 - Ai Crew - 3 Agents :
 - `Agent Travel` : Get the informations for travel and accomodations
 - `Agent Guide` : Get the informations for the destination, focus on user interests
@@ -10,7 +10,7 @@ Travel Planner Crew AI Agents to Get `Travel Plan`for a specific `City`, `Travel
 
 ![CrewAi App WorkFlow](workflow.png)
 
-## ✈TRAVEL PLANNER : LANGCHAIN & CREW AI
+## ✈ TRAVEL PLANNER : LANGCHAIN & CREW AI
 - Travel Planner assitant to help plan your travel and generate a LLM powered financial reports.
 
 ![CrewAi App WorkFlow](TravelPlanner_screenshot.png)
