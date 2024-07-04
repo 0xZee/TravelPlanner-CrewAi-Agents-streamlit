@@ -1,0 +1,5 @@
+streamlit
+crewai
+langchain_community
+duckduckgo-search
+langchain-groq
