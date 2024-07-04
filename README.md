@@ -13,6 +13,8 @@ Financial Crew AI Agents to Get `Travel Plan`for a specific `City`, `Travel Peri
 ## TRAVEL PLANNER : LANGCHAIN & CREW AI
 - Travel Planner assitant to help plan your travel and generate a LLM powered financial reports.
 
+![CrewAi App WorkFlow](TravelPlanner_screenshot.png)
+
 ## CREW AI AGENT :
 - An advanced research assistant by leveraging LangChain-powered tools into a CrewAI-powered multi-agent setup.
 - LangChain is a framework enabling developers to easily build LLM-powered applications over their data; it contains production modules for indexing, retrieval, and prompt/agent orchestration.
