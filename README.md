@@ -24,4 +24,4 @@ Travel Planner Crew AI Agents to Get `Travel Plan`for a specific `City`, `Travel
 ## ✈️ Run the App
 - Fork or Clone the Repo
 - Get and Put your `GROQ_API` in `.streamlit/secrets.toml`
-- Run : `streamlit run main.py`
+- Run : `streamlit run TravelCrewApp.py`
